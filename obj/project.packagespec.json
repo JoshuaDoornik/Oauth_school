@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joshua/Documents/projects/Oauth_project/Oauth_project.csproj",
+    "projectUniqueName": "/home/joshua/Documents/projects/bobthebuilder/Oauth_project/Oauth_project.csproj",
     "projectName": "Oauth_project",
-    "projectPath": "/home/joshua/Documents/projects/Oauth_project/Oauth_project.csproj",
-    "outputPath": "/home/joshua/Documents/projects/Oauth_project/obj/",
+    "projectPath": "/home/joshua/Documents/projects/bobthebuilder/Oauth_project/Oauth_project.csproj",
+    "outputPath": "/home/joshua/Documents/projects/bobthebuilder/Oauth_project/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
