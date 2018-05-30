@@ -1,0 +1,11 @@
+/home/joshua/Documents/projects/Oauth_project/bin/Debug/netcoreapp2.0/Oauth_project.deps.json
+/home/joshua/Documents/projects/Oauth_project/bin/Debug/netcoreapp2.0/Oauth_project.runtimeconfig.json
+/home/joshua/Documents/projects/Oauth_project/bin/Debug/netcoreapp2.0/Oauth_project.runtimeconfig.dev.json
+/home/joshua/Documents/projects/Oauth_project/bin/Debug/netcoreapp2.0/Oauth_project.dll
+/home/joshua/Documents/projects/Oauth_project/bin/Debug/netcoreapp2.0/Oauth_project.pdb
+/home/joshua/Documents/projects/Oauth_project/obj/Debug/netcoreapp2.0/Oauth_project.csprojAssemblyReference.cache
+/home/joshua/Documents/projects/Oauth_project/obj/Debug/netcoreapp2.0/Oauth_project.csproj.CoreCompileInputs.cache
+/home/joshua/Documents/projects/Oauth_project/obj/Debug/netcoreapp2.0/Oauth_project.AssemblyInfoInputs.cache
+/home/joshua/Documents/projects/Oauth_project/obj/Debug/netcoreapp2.0/Oauth_project.AssemblyInfo.cs
+/home/joshua/Documents/projects/Oauth_project/obj/Debug/netcoreapp2.0/Oauth_project.dll
+/home/joshua/Documents/projects/Oauth_project/obj/Debug/netcoreapp2.0/Oauth_project.pdb
